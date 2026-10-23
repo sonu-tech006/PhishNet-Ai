@@ -1,0 +1,6 @@
+{
+  "name": "PhishNet AI",
+  "description": "Intelligent Phishing & Scam Detection Platform featuring multi-signal ML classification, URL feature engineering, explainable threat indicators, and data engineering pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
